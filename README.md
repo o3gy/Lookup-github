@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Lookup GitHub - README</title>
+<body>
 <style>
   body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -49,9 +46,7 @@
     text-align: center;
   }
 </style>
-</head>
-<body>
-
+  
 <h1>Lookup GitHub</h1>
 
 <p>Un outil simple pour récupérer et sauvegarder les données publiques d’un utilisateur GitHub, en local et avec résumé console.</p>
