@@ -1,13 +1,8 @@
-<table>
-  <tr>
-    <td width="50" valign="middle">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="40" />
-    </td>
-    <td valign="middle" style="font-size: 2rem; color: #0366d6; font-weight: 600;">
-      Lookup GitHub
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://i.ibb.co/yBXXfC39/1753994935738.png" alt="Lookup GitHub Banner" width="100%" />
+</p>
+
+<h1>Lookup GitHub</h1>
 
 <p>Un outil simple pour récupérer et sauvegarder les données publiques d’un utilisateur GitHub, en local et avec résumé console.</p>
 
