@@ -1,51 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
 <body>
-<style>
-  body {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    background: #0d1117;
-    color: #c9d1d9;
-    margin: 2rem auto;
-    max-width: 720px;
-    line-height: 1.6;
-    padding: 0 1rem;
-  }
-  h1, h2 {
-    color: #58a6ff;
-    border-bottom: 2px solid #30363d;
-    padding-bottom: 0.3rem;
-  }
-  code {
-    background: #161b22;
-    padding: 0.2rem 0.4rem;
-    border-radius: 4px;
-    font-family: "Fira Mono", monospace, monospace;
-  }
-  pre {
-    background: #161b22;
-    padding: 1rem;
-    border-radius: 8px;
-    overflow-x: auto;
-    margin: 1rem 0;
-  }
-  a {
-    color: #58a6ff;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  ul {
-    margin-left: 1.2rem;
-  }
-  footer {
-    margin-top: 3rem;
-    font-size: 0.9rem;
-    color: #8b949e;
-    text-align: center;
-  }
-</style>
   
 <h1>Lookup GitHub</h1>
 
@@ -62,7 +17,7 @@
 </ul>
 
 <h2>Installation</h2>
-<pre><code>git clone https://github.com/ton-utilisateur/lookup-github.git
+<pre><code>git clone https://github.com/o3gy/lookup-github.git
 cd lookup-github
 pip install -r requirements.txt
 </code></pre>
