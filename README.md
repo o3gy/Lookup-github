@@ -1,9 +1,13 @@
-<div style="display:flex; align-items:center; gap:10px; margin-bottom:1rem;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo GitHub" width="36" height="36" />
-  <h1 style="margin:0; color:#0366d6; font-family:Segoe UI, Tahoma, Geneva, Verdana, sans-serif;">
-    Lookup GitHub
-  </h1>
-</div>
+<table>
+  <tr>
+    <td width="50" valign="middle">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="40" />
+    </td>
+    <td valign="middle" style="font-size: 2rem; color: #0366d6; font-weight: 600;">
+      Lookup GitHub
+    </td>
+  </tr>
+</table>
 
 <p>Un outil simple pour récupérer et sauvegarder les données publiques d’un utilisateur GitHub, en local et avec résumé console.</p>
 
