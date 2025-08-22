@@ -21,16 +21,13 @@
 <code>git clone https://github.com/o3gy/Lookup-github.git
 cd lookup-github
 pip install -r requirements.txt
+python main.py
 </code>
 </pre>
 
 <h2>Utilisation</h2>
-<p>Lance le script et entre le nom d’utilisateur GitHub :</p>
-<pre style="background:#f6f8fa; padding:1rem; border-radius:6px;">
-<code>python main.py
-</code>
-</pre>
-<p>Les fichiers seront sauvegardés dans <code>&lt;username&gt;/</code></p>
+<li>Lance le script et entre le nom d’utilisateur</li>
+<li>Les fichiers seront sauvegardés dans <code>&lt;username&gt;/</code></li>
 
 <h2>Fichiers créés</h2>
 <ul>
