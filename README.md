@@ -40,7 +40,7 @@ python main.py
 
 <h2>Informations</h2>
 <ul>
-  <li>Vous pouvez faire que 60 recherche par heure (1 par minute) car y'a le script marche sans clé API</li>
+  <li>Vous pouvez faire que 60 recherche par heure (1 par minute) car le script marche sans clé API</li>
   <li>Tout les informations fournies a chaque recherche est envoyé de manière legal</li>
   <li>Connexion internet nécessaire</li>
 </ul>
