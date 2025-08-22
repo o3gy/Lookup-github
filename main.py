@@ -22,7 +22,7 @@ def ascii_logo():
 ╚██████╔╝███████║███████╗██║  ██║
  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
                                  
-            {Style.BRIGHT}by laser2.2
+            {Style.BRIGHT}by o3gy
     """
     print(fade.purpleblue(logo))
 
